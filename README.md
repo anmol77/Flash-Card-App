@@ -2,9 +2,9 @@
 
 ### An app that helps people to learn new things through quizzies
 
-### App Walk-though
+### App Walk-through
 
-<img src="https://imgur.com/Z9pfxye" width=200><br>
+<img src="https://i.imgur.com/Z9pfxye.gif" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
