@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnMore</string>
+    <string name="flascard_question">Who is known as the father of modern Computer Science ?</string>
+    <string name="flashcard_answer">Alan Turing</string>
+</resources>
